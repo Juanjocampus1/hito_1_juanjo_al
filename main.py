@@ -1,4 +1,4 @@
-import shop as t
+import tienda as t
 
 if __name__ == '__main__':
     t.main()
